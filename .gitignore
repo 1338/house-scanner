@@ -1,0 +1,4 @@
+./mysql/*
+./project/.env
+./project/node_modules/*
+./project/vendor/*
